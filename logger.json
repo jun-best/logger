@@ -1,0 +1,14 @@
+{
+  "File" : {
+    "PrintToFile": true,
+    "Name": "logger.log",
+    "Path" : "log",
+    "RotationType": "size",
+    "RotationSize": "500",
+    "RotationTime": "MIN"
+  },
+  "Format" : {
+    "Level" : "DEBUG",
+    "TimeLayout" : "2006-01-02 15:04:05 CST"
+  }
+}
