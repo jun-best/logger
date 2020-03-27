@@ -3,7 +3,7 @@
     "PrintToFile": true,
     "Name": "logger.log",
     "Path" : "log",
-    "RotationType": "size",
+    "RotationType": "time",
     "RotationSize": "500",
     "RotationTime": "MIN"
   },
